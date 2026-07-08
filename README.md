@@ -24,6 +24,8 @@ Using housing transaction data and demographic information, our team analysed pr
 ## 🛠️ Tools & Technologies
 
 - R
+- Tableau 
+- Canva
 - tidyverse
 - ggplot2
 - dplyr
@@ -36,11 +38,12 @@ Using housing transaction data and demographic information, our team analysed pr
 
 For this project, I was responsible for:
 
+- Cleaning and filtering the dataset provided by removing missing values, time filtering and extracting floor feature
 - Analysing district-level property price appreciation from 2012–2017
 - Creating visualisations to compare appreciation trends across Beijing districts
 - Identifying high-growth investment opportunities
 - Developing investment recommendations based on analytical findings
-- Presenting findings in the final project report 
+- Presenting findings in the final project report and presentation
 - My charts and dashboards along with the analysis can be found in the `images/` folder.
 
 ---
@@ -72,8 +75,4 @@ beijing-housing-market-analysis/
 
 The complete project report can be found in the `report/` folder.
 
----
 
-## 📜 Disclaimer
-
-This repository is intended for portfolio purposes only. The original project was completed collaboratively as part of coursework at the National University of Singapore. The content included here highlights my individual contributions and recreations of the analyses I developed.
