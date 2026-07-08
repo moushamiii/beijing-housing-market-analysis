@@ -74,5 +74,3 @@ beijing-housing-market-analysis/
 ## 📄 Project Report
 
 The complete project report can be found in the `report/` folder.
-
-
