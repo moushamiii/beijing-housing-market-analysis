@@ -17,7 +17,7 @@ Using housing transaction data and demographic information, our team analysed pr
 
 ## 🎯 Business Question
 
-> **Which district in Beijing offers the greatest investment potential by balancing purchase cost, appreciation, demand, and property value?**
+> **Which district in Beijing offers the greatest property value by balancing purchase cost, appreciation, demand, and property value?**
 
 ---
 
@@ -40,7 +40,8 @@ For this project, I was responsible for:
 - Creating visualisations to compare appreciation trends across Beijing districts
 - Identifying high-growth investment opportunities
 - Developing investment recommendations based on analytical findings
-- Presenting findings in the final project report
+- Presenting findings in the final project report 
+- My charts and dashboards along with the analysis can be found in the `images/` folder.
 
 ---
 
